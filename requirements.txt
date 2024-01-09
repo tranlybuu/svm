@@ -1,0 +1,11 @@
+cvxopt
+matplotlib
+numpy
+scikit-learn
+seaborn
+nltk
+wordcloud
+matplotlib
+fastapi
+uvicorn[standard]
+python-multipart
